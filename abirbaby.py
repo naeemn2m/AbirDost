@@ -83,7 +83,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://raw.githubusercontent.com/EsanAhmedAbir/OldCrack/main/Premium.txt').text
+			plr = requests.get('https://raw.githubusercontent.com/NAEEM KHAN/OldCrack/main/Premium.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -101,7 +101,7 @@ class Main:
 			exit()
 		os.system("clear")
 		
-		print("\n"+C+"░█████╗░██████╗░██╗██████╗░\n██╔══██╗██╔══██╗██║██╔══██╗ "+Y+"|Esan"+C+"\n███████║██████╦╝██║██████╔╝ "+Y+"|Ahmed"+C+"\n██╔══██║██╔══██╗██║██╔══██╗ "+Y+"|Abir"+C+"\n██║░░██║██████╦╝██║██║░░██║\n╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : ESAN AHMED ABIR\n▸ FACEBOOK   : FACEBOOK.COM/Es4nAhm3dAb1r\n▸ YOUTUBE    : YOUTUBE.COM/AbirTheTechVhai\n▸ GITHUB     : GITHUB.COM/EsanAhmedAbir\n"+N+"─────────────────────────────────────────────────\n")
+		print("\n"+C+"░█████╗░██████╗░██╗██████╗░\n██╔══██╗██╔══██╗██║██╔══██╗ "+Y+"|NAEEM"+C+"\n███████║██████╦╝██║██████╔╝ "+Y+"|NAYAN"+C+"\n██╔══██║██╔══██╗██║██╔══██╗ "+Y+"|Abir"+C+"\n██║░░██║██████╦╝██║██║░░██║\n╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░╚═╝\n "+N+"──────────────────────────────────────────────────"+G+"\n▸ AUTHOR     : NAEEM NAYAN ABIR\n▸ FACEBOOK   : FACEBOOK.COM/mdnaeem.n2m▸ YOUTUBE    : YOUTUBE.COM/naeemn2m\n▸ GITHUB     : GITHUB.COM/naeemn2m\n"+N+"─────────────────────────────────────────────────\n")
 		print("%s [%s•%s] %sTOOL NAME : %sMULTI-TOOL"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
@@ -176,30 +176,30 @@ class Main:
 	def v2(self):
 		if	os.path.isfile('.v2.py'):
 			os.system("pkg install wget -y")
-			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.v2.py && clear && python .v2.py")
+			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.v2.py && clear && python .v2.py")
 
 		else:
 			os.system("pkg install wget -y")
-			os.system("wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.v2.py && clear && python .v2.py")
+			os.system("wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.v2.py && clear && python .v2.py")
 			
 			
 	def v3(self):
 		if	os.path.isfile('.v3.py'):
 			os.system("pkg install wget -y")
-			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.v3.py && clear && python .v3.py")
+			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.v3.py && clear && python .v3.py")
 
 		else:
 			os.system("pkg install wget -y")
-			os.system("wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.v3.py && clear && python .v3.py")
+			os.system("wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.v3.py && clear && python .v3.py")
 
 	def fmain(self):
 		if	os.path.isfile('.fmain.py'):
 			os.system("pkg install wget -y")
-			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.fmain.py && clear && python .fmain.py")
+			os.system("pip install requests && pip install bs4 && clear && wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.fmain.py && clear && python .fmain.py")
 
 		else:
 			os.system("pkg install wget -y")
-			os.system("wget https://raw.githubusercontent.com/EsanAhmedAbir/MultiTool/main/.fmain.py && clear && python .fmain.py")
+			os.system("wget https://raw.githubusercontent.com/NAEEM KHAN/MultiTool/main/.fmain.py && clear && python .fmain.py")
 
 	def custom(self):
 		print("")
